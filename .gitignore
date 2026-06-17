@@ -1,0 +1,20 @@
+# virtual environment
+venv/ 
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ML / heavy files
+*.onnx
+*.dll
+*.pyd
+*.so
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store

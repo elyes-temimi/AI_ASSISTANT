@@ -1,0 +1,9 @@
+MODEL_NAME = "Qwen/Qwen2.5-3B-Instruct"
+
+MAX_TOKENS = 256
+TEMPERATURE = 0.7
+
+DEFAULT_PERSONALITY = "friendly"
+MEMORY_LIMIT = 8
+
+
